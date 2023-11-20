@@ -22,5 +22,9 @@ console.log(greet);
 // let greet = 'come stai mondo?'
 // console.log(greet)
 
+// greet = greet + ' Come stai?'
+// console.log(greet)
 
+greet = `${greet} Come stai?`
+console.log(greet)
 
