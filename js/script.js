@@ -70,3 +70,17 @@ else{
 }
 
 console.log(comparison);
+
+// *****Esercizio 3.2*****
+let num = 3;
+
+let compara;
+
+if(num == '3'){
+    compara = true;
+}
+else{
+    compara = false;
+}
+
+console.log(compara);
