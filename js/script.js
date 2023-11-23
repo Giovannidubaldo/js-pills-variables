@@ -89,6 +89,11 @@ console.log(compara);
 
 // *****Esercizio 1/A***** 
 
-for(let i =1; i<=42; i++){
+// for(let i =1; i<=42; i++){
+//     console.log(i);
+// }
+
+// *****Esercizio 1/B***** 
+for(let i=42; i>=1; i--){
     console.log(i);
 }
