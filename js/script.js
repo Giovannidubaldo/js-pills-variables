@@ -88,12 +88,17 @@ console.log(compara);
 // CICLO FOR 
 
 // *****Esercizio 1/A***** 
-
 // for(let i =1; i<=42; i++){
 //     console.log(i);
 // }
 
 // *****Esercizio 1/B***** 
-for(let i=42; i>=1; i--){
-    console.log(i);
-}
+// for(let i=42; i>=1; i--){
+//     console.log(i);
+// }
+
+// ARRAY
+
+// *****Esercizio 1/array***** 
+const numbers= [1,2,3,4,5,6,7,8];
+console.log(numbers);
