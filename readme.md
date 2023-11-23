@@ -50,5 +50,9 @@ Ora riscrivi il *ciclo for* in modo che stampi i numeri interi da 42 a 1
 **Esercizio 1/Array**  
 Definisci un array contenente 8 numeri interi e memorizzalo nella costante `numbers` 
 
-
+**Esercizio 2/array**  
+Definisci un array contenente le stringhe che seguono e memorizzalo nella costante `fruits`: 
+```
+mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
+```
 
