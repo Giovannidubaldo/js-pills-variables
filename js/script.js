@@ -107,3 +107,6 @@ console.log(numbers);
 const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 
 'mango', 'kiwi', 'papaya'];
 console.log(fruits);
+
+// *****Esercizio 3/array***** 
+console.log(fruits.length);
