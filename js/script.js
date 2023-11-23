@@ -84,3 +84,11 @@ else{
 }
 
 console.log(compara);
+
+// CICLO FOR 
+
+// *****Esercizio 1/A***** 
+
+for(let i =1; i<=42; i++){
+    console.log(i);
+}
