@@ -58,3 +58,30 @@ mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 
 **Esercizio 3/array**  
 Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+<!-- TUTOR -->
+
+**Esercizio TUTOR-1**
+1. Chiedi all'utente un numero intero e memorizzalo nella costante numOfElements
+2. Crea un array numbers e riempilo con i numeri interi da 1 a numOfElements
+3. Stampa in console l'array numbers e il numero di elementi di cui si compone
+
+**Esercizio TUTOR-2** 
+Calcola la somma di tutti i numeri presenti nell'array numbers dell'esercizio 2/A
+
+**Esercizio TUTOR-3**
+Trova il valore massimo di tutti i numeri presenti nell'array numbers dell'esercizio 2/A
+
+<!-- FUNZIONI -->
+
+**Esercizio F-1**
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+
+**Esercizio F-2**
+Richiamare la funzione definita prima
+
+**Esercizio F-3**
+Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca
+
+**Esercizio F-4**
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato

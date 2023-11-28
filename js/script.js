@@ -1,29 +1,29 @@
 // *****Esercizio 1*****
-let number = 100;
-console.log(number);
+// let number = 100;
+// console.log(number);
 
 // *****Esercizio 2*****
-const pi = 3.14;
-console.log(pi);
+// const pi = 3.14;
+// console.log(pi);
 
 // *****Esercizio 2/B*****
 // pi = 3.1416;
 // console.log(pi)
 
 // *****Esercizio 2/C*****
-let radius = 8;
+// let radius = 8;
 
-let circle = radius * 2 * pi
-console.log(circle)
+// let circle = radius * 2 * pi
+// console.log(circle)
 
 // *****Esercizio 3*****
-let name = 'Carlo';
-name = 'Marco';
-console.log(name)
+// let name = 'Carlo';
+// name = 'Marco';
+// console.log(name)
 
 // *****Esercizio 4*****
-let greet = 'Ciao, Mondo!';
-console.log(greet);
+// let greet = 'Ciao, Mondo!';
+// console.log(greet);
 
 // *****Esercizio 4/B*****
 // let greet = 'come stai mondo?'
@@ -33,15 +33,15 @@ console.log(greet);
 // greet = greet + ' Come stai?'
 // console.log(greet)
 
-greet = `${greet} Come stai?`
-console.log(greet)
+// greet = `${greet} Come stai?`
+// console.log(greet)
 
 // IF-ELSE
 
 // *****Esercizio 1.2*****
-let num1 = 40;
+// let num1 = 40;
 
-let num2 = 20;
+// let num2 = 20;
 
 // let comparison;
 
@@ -56,34 +56,34 @@ let num2 = 20;
 // console.log(comparison)
 
 // *****Esercizio 2.2*****
-let stringa1 = 'ciao';
+// let stringa1 = 'ciao';
 
-let stringa2 = 'come stai';
+// let stringa2 = 'come stai';
 
-let comparison;
+// let comparison;
 
-if(stringa1 == stringa2){
-    comparison = 'Uguale';
-}
-else{
-    comparison = 'Diverso';
-}
+// if(stringa1 == stringa2){
+//     comparison = 'Uguale';
+// }
+// else{
+//     comparison = 'Diverso';
+// }
 
-console.log(comparison);
+// console.log(comparison);
 
 // *****Esercizio 3.2*****
-let num = 3;
+// let num = 3;
 
-let compara;
+// let compara;
 
-if(num == '3'){
-    compara = true;
-}
-else{
-    compara = false;
-}
+// if(num == '3'){
+//     compara = true;
+// }
+// else{
+//     compara = false;
+// }
 
-console.log(compara);
+// console.log(compara);
 
 // CICLO FOR 
 
@@ -100,13 +100,50 @@ console.log(compara);
 // ARRAY
 
 // *****Esercizio 1/array***** 
-const numbers = [1,2,3,4,5,6,7,8];
-console.log(numbers);
+// const numbers = [1,2,3,4,5,6,7,8];
+// console.log(numbers);
 
-// *****Esercizio 2/array***** 
-const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 
-'mango', 'kiwi', 'papaya'];
-console.log(fruits);
+// // *****Esercizio 2/array***** 
+// const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 
+// 'mango', 'kiwi', 'papaya'];
+// console.log(fruits);
 
 // *****Esercizio 3/array***** 
-console.log(fruits.length);
+// console.log(fruits.length);
+
+// TUTOR
+// *****Esercizio TUTOR*****
+// const numOfElements = parseInt(prompt('Inserisci un numero intero'));
+// let numbers = [];
+
+// let somma = 0;
+
+// for(let i=1; i<=numOfElements; i++){
+//     numbers.push(i);
+//     somma += numbers;
+// }
+
+// console.log(numbers);
+// console.log(numbers.length);
+// console.log(somma);
+
+// FUNZIONI
+
+// **Esercizio F-1**
+function hello(){
+    alert('ciao mondo');
+}
+
+// **Esercizio F-2**
+hello();
+
+// **Esercizio F-3**
+function twoNumbers(num1, num2){
+    let somma = num1 + num2;
+
+    return somma;
+}
+
+// **Esercizio F-4**
+let result = twoNumbers(3,5);
+console.log(result); 
