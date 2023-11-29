@@ -85,3 +85,9 @@ Definire una funzione che accetti due numeri in input, ne faccia la somma e la r
 
 **Esercizio F-4**
 Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato
+
+**Esercizio F-5**
+Dichiara una funzione chiamata getOneStringFromTwo che prenda come argomenti due stringhe e ritorni come un'unica stringa formata dalle due stringhe separate da uno spazio.
+
+**Esercizio F-6**
+Invoca la funzione dichiarata nell'esercizio 1/A passandole due stringhe a piacere e stampa in console la stringa ottenuta.

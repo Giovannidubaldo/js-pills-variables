@@ -130,20 +130,33 @@
 // FUNZIONI
 
 // **Esercizio F-1**
-function hello(){
-    alert('ciao mondo');
-}
+// function hello(){
+//     alert('ciao mondo');
+// }
 
-// **Esercizio F-2**
-hello();
+// // **Esercizio F-2**
+// hello();
 
-// **Esercizio F-3**
-function twoNumbers(num1, num2){
-    let somma = num1 + num2;
+// // **Esercizio F-3**
+// function twoNumbers(num1, num2){
+//     let somma = num1 + num2;
 
-    return somma;
-}
+//     return somma;
+// }
 
-// **Esercizio F-4**
-let result = twoNumbers(3,5);
-console.log(result); 
+// // **Esercizio F-4**
+// let result = twoNumbers(3,5);
+// console.log(result); 
+
+// **Esercizio F-5**
+// function getOneStringFromTwo(a,b){
+//     let result = a + ' ' + b;
+//     return result;
+// }
+
+// // **Esercizio F-6**
+// let stringa1 = 'Ciao';
+// let stringa2 = 'grande';
+
+// let finish = getOneStringFromTwo(stringa1,stringa2);
+// console.log(finish);
