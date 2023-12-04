@@ -160,3 +160,33 @@
 
 // let finish = getOneStringFromTwo(stringa1,stringa2);
 // console.log(finish);
+
+
+// TIMING FUNCTION
+
+
+// **Esercizio 1/A**
+// setTimeout(function(){
+//     alert('ciao a tutti')
+// }, 3000);
+
+// **Esericio 2/A**
+// let time = 0;
+
+// setInterval(function(){
+//     time++;
+//     console.log(time);
+// }, 1000);
+
+
+// OBJECTS
+
+
+// // **Esercizio 1/A**
+// let persona = {
+//     'nome' : 'Giovanni',
+//     'cognome' : 'D Ubaldo'
+// }
+
+// // **Esercizio 1/B**
+// persona.nome;
